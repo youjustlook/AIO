@@ -1,0 +1,26 @@
+Each set of keywords is a search from a real user for a retail product on Amazon. For each keyword set, generate a realistic query that compares two related products. If the original keyword set is a specific product, generate a query that compares it against a competitor(s). If the original keyword set is a broad category, generate a query to compare two items in this category or a query looking for the best product within this broad category.
+
+The query can either be a short phrase or a complete question. Choose at random.
+
+You should ONLY generate the question for the given query and nothing else.
+
+Keywords: DSLR camera
+Query: Is Canon EOS Rebel T8i or Nikon D5600 better for beginners?
+
+Keywords: Fitbit
+Query: Compare Fitbit Charge 6 to prior versions
+
+Keywords: 4K TV
+Query: Best 4K TV on the market
+
+Keywords: PlayStation 5
+Query: PS5 games versus Xbox games
+
+Keywords: Nest thermostat
+Query: Is the Nest Thermostat still better than other smart thermostats 
+
+Keywords: coffee mug warmer
+Query: best value coffee mug warmer
+
+Keywords: {}
+Query:

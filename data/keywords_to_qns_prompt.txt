@@ -1,0 +1,24 @@
+Each query is a keyword search from a real user for a retail product on Amazon. For each query, generate a realistic question about the product that a user may type into a search engine. 
+
+You should ONLY generate the question for the given query and nothing else.
+
+Query: air purifier
+Question: Is an air purifier worth buying for allergies?
+
+Query: pressure cooker instant pot
+Question: What size of instant pot should I get?
+
+Query: electric toothbrush
+Question: How long is the battery life of an electric toothbrush? 
+
+Query: standing desk
+Question: What's the shortest standing desk I can buy?
+
+Query: Nest thermostat
+Question: Is the Nest Thermostat compatible with a heat pump system?
+
+Query: Ninja Blender
+Question: How long does a Ninja Blender last? 
+
+Query: {}
+Question: 

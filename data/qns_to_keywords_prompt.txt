@@ -1,0 +1,24 @@
+Each query is a real user question asked on Google. For each question, rephrase it as a list of related keywords that a user may write to get similar information.
+
+You should ONLY generate the keywords for the given query and nothing else.
+
+Query: how many amendments are in the bill of rights
+Keywords: bill of rights length
+
+Query: how fast can a cheetah run at top speed
+Keywords: cheetah top speed
+
+Query: which muscles are primarily used when running uphill
+Keywords: uphill running muscles
+
+Query: why is renewable energy important for the environment
+Keywords: renewable energy environment
+
+Query: why do birds migrate long distances every year
+Keywords: birds migration
+
+Query: when did the united nations adopt the universal declaration of human rights
+Keywords: united nations universal human rights
+
+Query: {}
+Keywords:
